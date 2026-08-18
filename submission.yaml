@@ -1,0 +1,495 @@
+additional_resources:
+  - description: Original abstract file
+    location: abstract.txt
+  - description: CMS public results page for SUS-23-016 analysis, including plots
+    location: https://cms-results.web.cern.ch/cms-results/public-results/preliminary-results/SUS-23-016/index.html
+comment: >
+  A search for new physics in events featuring a single photon and missing transverse momentum
+  is presented, using proton-proton $\sqrt{s} = 13~\TeV$ collision data corresponding
+  to an integrated luminosity of 101 \fbinv\ collected by the CMS experiment at the CERN
+  LHC between 2017 and 2018. This analysis, combined with a previous study of 36 \fbinv
+  of 2016 data (totaling 137 \fbinv), reveals no significant deviations from standard
+  model expectations. The results are then used to establish 95% confidence level limits
+  on parameters in theoretical models involving dark matter and large extra dimensions.
+  Compared to the 2016-only analysis, this search achieves up to a 14% improvement in
+  exclusion reach for mediator masses in simplified dark matter models, along with 11%
+  and 10% enhancements in the limits on the effective field theory suppression scale
+  and the fundamental Planck scale, respectively. These results are the most stringent
+  constraints on these parameters to date in the monophoton final state.
+
+data_license:
+  description: CC0 enables reusers to distribute, remix, adapt, and build upon the material
+    in any medium or format, with no conditions.
+  name: CC0
+  url: https://creativecommons.org/publicdomain/zero/1.0/
+keywords: []
+---
+
+# Figure 2 left
+name: Figure 2 left
+location: Data from Figure 2 left
+description: Distribution of ET /pmiss for the 2017 data sets.
+data_file: Figure2left.yaml
+additional_resources:
+  - description: Image file for Figure 2 left
+    location: Figure2left.png
+  - description: Thumbnail image file for Figure 2 left
+    location: thumb_Figure2left.png
+keywords: []
+---
+
+# Figure 2 right
+name: Figure 2 right
+location: Data from Figure 2 right
+description: Distribution of ET /pmiss for the 2018 data sets.
+data_file: Figure2right.yaml
+additional_resources:
+  - description: Image file for Figure 2 right
+    location: Figure2right.png
+  - description: Thumbnail image file for Figure 2 right
+    location: thumb_Figure2right.png
+keywords: []
+---
+
+# Figure 3 left
+name: Figure 3 left
+location: Data from Figure 3 left
+description: Distribution of ∆φ(pmiss, pT ) for the 2017 data sets.
+data_file: Figure3left.yaml
+additional_resources:
+  - description: Image file for Figure 3 left
+    location: Figure3left.png
+  - description: Thumbnail image file for Figure 3 left
+    location: thumb_Figure3left.png
+keywords: []
+---
+
+# Figure 3 right
+name: Figure 3 right
+location: Data from Figure 3 right
+description: Distribution of ∆φ(pmiss, pT ) for the 2018 data sets.
+data_file: Figure3right.yaml
+additional_resources:
+  - description: Image file for Figure 3 right
+    location: Figure3right.png
+  - description: Thumbnail image file for Figure 3 right
+    location: thumb_Figure3right.png
+keywords: []
+---
+
+# Figure 4 left
+name: Figure 4 left
+location: Data from Figure 4 left
+description: >
+  Comparison of data and background post-fit distributions in the eν + γ CRs
+  for the combination of 2017 and 2018 data sets. The last bin of the distribution
+  includes the overflow events. The ratios of data to the background predictions are
+  shown in the lower panels, with the uncertainty bands including the combination of
+  all systematic uncertainties.
+data_file: Figure4left.yaml
+additional_resources:
+  - description: Image file for Figure 4 left
+    location: Figure4left.png
+  - description: Thumbnail image file for Figure 4 left
+    location: thumb_Figure4left.png
+keywords: []
+---
+
+# Figure 4 right
+name: Figure 4 right
+location: Data from Figure 4 right
+description: >
+  Comparison of data and background post-fit distributions in the μν +γ CRs
+  for the combination of 2017 and 2018 data sets. The last bin of the distribution
+  includes the overflow events. The ratios of data to the background predictions are
+  shown in the lower panels, with the uncertainty bands including the combination of
+  all systematic uncertainties.
+data_file: Figure4right.yaml
+additional_resources:
+  - description: Image file for Figure 4 right
+    location: Figure4right.png
+  - description: Thumbnail image file for Figure 4 right
+    location: thumb_Figure4right.png
+keywords: []
+---
+
+# Figure 5 left
+name: Figure 5 left
+location: Data from Figure 5 left
+description: >
+  Comparison of data and background post-fit distributions in the ee + γ CRs
+  for the combination of 2017 and 2018 data sets. The last bin of the distribution
+  includes the overflow events. The ratios of data to the background predictions are
+  shown in the lower panels, with the uncertainty bands including the combination of
+  all systematic uncertainties.
+data_file: Figure5left.yaml
+additional_resources:
+  - description: Image file for Figure 5 left
+    location: Figure5left.png
+  - description: Thumbnail image file for Figure 5 left
+    location: thumb_Figure5left.png
+keywords: []
+---
+
+# Figure 5 right
+name: Figure 5 right
+location: Data from Figure 5 right
+description: >
+  Comparison of data and background post-fit distributions in the μμ + γ CRs
+  for the combination of 2017 and 2018 data sets. The last bin of the distribution
+  includes the overflow events. The ratios of data to the background predictions are
+  shown in the lower panels, with the uncertainty bands including the combination of
+  all systematic uncertainties.
+data_file: Figure5right.yaml
+additional_resources:
+  - description: Image file for Figure 5 right
+    location: Figure5right.png
+  - description: Thumbnail image file for Figure 5 right
+    location: thumb_Figure5right.png
+keywords: []
+---
+
+# Figure 6 left
+name: Figure 6 left
+location: Data from Figure 6 left
+description: Comparison of data and background post-fit distributions for the vertical regions for the combination of 2017 and 2018 data sets.
+data_file: Figure6left.yaml
+additional_resources:
+  - description: Image file for Figure 6 left
+    location: Figure6left.png
+  - description: Thumbnail image file for Figure 6 left
+    location: thumb_Figure6left.png
+keywords: []
+---
+
+# Figure 6 right
+name: Figure 6 right
+location: Data from Figure 6 right
+description: Comparison of data and background post-fit distributions for the horizontal regions for the combination of 2017 and 2018 data sets.
+data_file: Figure6right.yaml
+additional_resources:
+  - description: Image file for Figure 6 right
+    location: Figure6right.png
+  - description: Thumbnail image file for Figure 6 right
+    location: thumb_Figure6right.png
+keywords: []
+---
+
+
+
+# Figure 7 left and relic data
+name: Figure 7 CMS left
+location: Data from Figure 7 left
+description: The ratio of 95% CL upper cross section limits to the theoretical cross
+  section (μ95) for simplified DM models with vector mediators, using the full 2016–2018
+  data set.
+data_file: Figure7left_CMS.yaml
+additional_resources:
+  - description: Image file for Figure 7 left
+    location: Figure7left.png
+  - description: Thumbnail image file for Figure 7 left
+    location: thumb_Figure7left.png
+keywords: []
+---
+# Figure 7 left and relic data
+name: Figure 7 left expected limit curve
+location: Data from Figure 7 left expected limit curve
+description: The ratio of 95% CL upper cross section limits to the theoretical cross
+  section (μ95) for simplified DM models with vector mediators, using the full 2016–2018
+  data set.
+data_file: expected50_contour.yaml
+additional_resources:
+  - description: Image file for Figure 7 left
+    location: Figure7left.png
+  - description: Thumbnail image file for Figure 7 left
+    location: thumb_Figure7left.png
+keywords: []
+---
+
+# Figure 7 left and relic data
+name: Figure 7 left observed limit curve
+location: Data from Figure 7 left observed limit curve
+description: The ratio of 95% CL upper cross section limits to the theoretical cross
+  section (μ95) for simplified DM models with vector mediators, using the full 2016–2018
+  data set.
+data_file: observed_contour.yaml
+additional_resources:
+  - description: Image file for Figure 7 left
+    location: Figure7left.png
+  - description: Thumbnail image file for Figure 7 left
+    location: thumb_Figure7left.png
+keywords: []
+---
+
+name: Figure 7 Lower left
+location: Data from Figure 7 Lower left
+description: Relic density data for Vector mediator used in Figure 7.
+data_file: Figure7left_relic_updated.yaml
+keywords: []
+---
+
+# Figure 7 right and relic data
+name: Figure 7 CMS right
+location: Data from Figure 7 CMS right
+description: The ratio of 95% CL upper cross section limits to the theoretical cross
+  section (μ95) for simplified DM models with Axial vector mediators, using the full
+  2016–2018 data set.
+data_file: Figure7right_CMS.yaml
+additional_resources:
+  - description: Image file for Figure 7 right
+    location: Figure7right.png
+  - description: Thumbnail image file for Figure 7 right
+    location: thumb_Figure7right.png
+keywords: []
+---
+
+
+name: Figure 7 right expected limit curve for Axial Vector
+location: Data from Figure 7 expected limit curve for Axial Vector
+description: The ratio of 95% CL upper cross section limits to the theoretical cross
+  section (μ95) for simplified DM models with Axial vector mediators, using the full
+  2016–2018 data set.
+data_file: expected50_contourAV.yaml
+additional_resources:
+  - description: Image file for Figure 7 right
+    location: Figure7right.png
+  - description: Thumbnail image file for Figure 7 right
+    location: thumb_Figure7right.png
+keywords: []
+---
+
+
+name: Figure 7 right observed limit curve for Axial Vector
+location: Data from Figure 7 observed limit curve for Axial Vector
+description: The ratio of 95% CL upper cross section limits to the theoretical cross
+  section (μ95) for simplified DM models with Axial vector mediators, using the full
+  2016–2018 data set.
+data_file: observed_contourAV.yaml
+additional_resources:
+  - description: Image file for Figure 7 right
+    location: Figure7right.png
+  - description: Thumbnail image file for Figure 7 right
+    location: thumb_Figure7right.png
+keywords: []
+---
+
+
+
+
+
+name: Figure 7 relic Lower right
+location: Data from Figure 7 relic Lower right
+description: Relic density data for Axial Vector mediator used in Figure 7.
+data_file: Figure7right_relic_lower.yaml
+keywords: []
+---
+
+name: Figure 7 relic Upper right
+location: Data from Figure 7 relic Upper right
+description: Relic density data for Axial Vector mediator used in Figure 7.
+data_file: Figure7right_relic_upper.yaml
+keywords: []
+---
+# Figure 8 left (Spin-independent DM direct detection)
+name: Figure 8 (CMS)
+location: Data from Figure 8 (CMS)
+description: >
+  The 90% CL exclusion limits on the $\chi$--nucleon spin-independent (left) scattering
+  cross sections involving vector operators, respectively, are shown as a function
+  of $m_{\rm DM}$, using the 2016--2018 data set. Simplified model DM parameters
+  $g_q = 0.25$ and $g_{\rm DM} = 1$ are assumed.
+data_file: Figure8SI_cms.yaml
+additional_resources:
+  - description: Image file for Figure 8 left
+    location: Figure8left.png
+  - description: Thumbnail image file for Figure 8 left
+    location: thumb_Figure8left.png
+keywords: []
+---
+
+name: Figure 8 (CDMS)
+location: Data from Figure 8 (CDMS)
+description: The 90% CL data from CDMS lite experiment used in Figure 8.
+data_file: Figure8SI_CDMSlite.yaml
+keywords: []
+---
+
+name: Figure 8 (LZ)
+location: Data from Figure 8 (LZ)
+description: The 90% CL data from LZ experiment used in Figure 8.
+data_file: Figure8SI_LZ.yaml
+keywords: []
+---
+
+name: Figure 8 (panda)
+location: Data from Figure 8 (panda)
+description: The 90% CL data from Panda experiment used in Figure 8.
+data_file: Figure8SI_panda.yaml
+keywords: []
+---
+
+name: Figure 8 (CRESST-II)
+location: Data from Figure 8 (CRESST-II)
+description: The 90% CL data from CRESST experiment used in Figure 8.
+data_file: Figure8SI_cresst.yaml
+keywords: []
+---
+
+name: Figure 8 (XENONnT 2023)
+location: Data from Figure 8 (XENONnT 2023)
+description: The 90% CL data from XENONnT 2023 experiment used in Figure 8.
+data_file: Figure8SI_xenon.yaml
+keywords: []
+---
+
+# Figure 8 right (Spin-dependent DM direct detection)
+name: Figure 8 right (CMS)
+location: Data from Figure 8 (right) (CMS)
+description: >
+  The 90% CL exclusion limits on the $\chi$--nucleon spin-dependent scattering cross
+  sections involving Axial vector operators are shown as a function of $m_{\rm DM}$,
+  using the 2016--2018 data set. Simplified model DM parameters $g_q = 0.25$ and
+  $g_{\rm DM} = 1$ are assumed.
+data_file: Figure8SD_cms.yaml
+additional_resources:
+  - description: Image file for Figure 8 right
+    location: Figure8right.png
+  - description: Thumbnail image file for Figure 8 right
+    location: thumb_Figure8right.png
+keywords: []
+---
+
+name: Figure 8 (PICO)
+location: Data from Figure 8 (PICO)
+description: The 90% CL data from PICO experiment used in Figure 8 (right).
+data_file: Figure8SD_PICO.yaml
+keywords: []
+---
+
+name: Figure 8 (PICASSO)
+location: Data from Figure 8 (PICASSO)
+description: The 90% CL data from PICASSO experiment used in Figure 8 (right).
+data_file: Figure8SD_PICASSO.yaml
+keywords: []
+---
+
+name: Figure 8 (KAMIOKADE)
+location: Data from Figure 8 (kAMIOKADE)
+description: The 90% CL data from Kamiokade experiment used in Figure 8 (right).
+data_file: Figure8SD_Kamiokade.yaml
+keywords: []
+---
+
+name: Figure 8 (Icecube)
+location: Data from Figure 8 (Icecube)
+description: The 90% CL data from Icecube experiment used in Figure 8 (right).
+data_file: Figure8SD_icecube.yaml
+keywords: []
+---
+
+# Figure 9
+name: Limits on Suppression Scale
+location: Figure 9
+description: Observed and expected 95% CL limits on Suppression Scale as a function
+  of M_{DM}, including ±1σ and ±2σ uncertainty bands.
+data_file: Figure9.yaml
+additional_resources:
+  - description: Image file for Figure 9
+    location: Figure9.png
+  - description: Thumbnail image for Figure 9
+    location: thumb_Figure9.png
+keywords: []
+---
+
+# Figure 10 (upper and theory curves)
+name: Figure 10a
+location: Data from Figure 10 (upper curves)
+description: The 95% \CL\ observed and expected cross-section limits with ±1σ and ±2σ
+  uncertainty bands as a function of $M_D$.
+data_file: Figure10a.yaml
+additional_resources:
+  - description: Image file for Figure 10
+    location: Figure10.png
+  - description: Thumbnail image for Figure 10
+    location: thumb_Figure10.png
+keywords: []
+---
+
+name: Figure 10b
+location: Data from Figure 10 (theory curve)
+description: Leading-order theoretical cross-section prediction as a function of $M_D$.
+data_file: Figure10b.yaml
+keywords: []
+---
+
+# Figure 11
+name: Figure 11
+location: Data from Figure 11
+description: The 95% \CL\ upper limits on the ADD graviton production cross section
+  as a function of \mD, for $n=3$ extra dimensions.
+data_file: Figure11.yaml
+additional_resources:
+  - description: Image file for Figure 11
+    location: Figure11.png
+  - description: Thumbnail image for Figure 11
+    location: thumb_Figure11.png
+keywords: []
+
+---
+
+# Acceptance × Efficiency auxiliary data
+name: Acceptance Efficiency Table for ADD model
+location: ADD_hepdata.yaml
+description: >
+  Acceptance × Efficiency for ADD models with varying fundamental Planck scale (M_D)
+  and number of extra dimensions (d). This auxiliary material is not shown in any figure or table
+  but is provided for reproducibility and reinterpretation purposes.
+data_file: ADD_hepdata.yaml
+keywords:
+  - name: phrases
+    values: ["auxiliary material", "acceptance", "ADD model", "extra dimensions"]
+---
+
+name: Acceptance Efficiency Table for DM-EW model
+location: EWK_DM_hepdata.yaml
+description: >
+  Acceptance × Efficiency for DM-EW models with varying dark matter mass.
+data_file: EWK_DM_hepdata.yaml
+keywords:
+  - name: phrases
+    values: ["auxiliary material", "acceptance", "DM-EW model", "Suppression parameter"]
+---
+
+
+# Acceptance × Efficiency auxiliary data
+name: Acceptance Efficiency Table for DM vector Simplified model
+location: hepdata_vector_acceptance.yaml
+description: >
+  Acceptance × Efficiency for DM simplified model for vector mediator.
+data_file: hepdata_vector_acceptance.yaml
+keywords:
+  - name: phrases
+    values: ["auxiliary material", "acceptance", "DM vector mediator", "simplified model"]
+---
+
+# Acceptance × Efficiency auxiliary data
+name: Acceptance Efficiency Table for DM Axial vector Simplified model
+location: hepdata_axialvector_acceptance.yaml
+description: >
+  Acceptance × Efficiency for DM simplified model for Axial vector mediator.
+data_file: hepdata_axialvector_acceptance.yaml
+keywords:
+  - name: phrases
+    values: ["auxiliary material", "acceptance", "DM Axial vector mediator", "simplified model"]
+---
+
+# Cutflow for some signal points
+name: Cutflow Table for some signal points
+location: cut_flow_hepdata.yaml
+description: >
+  Cut flow for some signal points. 
+data_file: cut_flow_hepdata.yaml
+keywords:
+  - name: phrases
+    values: ["auxiliary material", "Selection", "Events remain"]
+---
