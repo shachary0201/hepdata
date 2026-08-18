@@ -1,0 +1,28 @@
+independent_variables:
+- header:
+    name: n
+    units: ''
+  values:
+  - value: 3
+  - value: 4
+  - value: 5
+  - value: 6
+dependent_variables:
+- header:
+    name: Expected limit on MD
+    units: TeV
+  values:
+  - value: 3.67
+  - value: 3.58
+  - value: 3.56
+  - value: 3.55
+
+- header:
+    name: Observed limit on MD
+    units: TeV
+  values:
+  - value: 3.2
+  - value: 3.17
+  - value: 3.167
+  - value: 3.174
+
